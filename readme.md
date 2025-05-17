@@ -12,3 +12,8 @@
 
 develop branch をつくる
 switch
+
+1.developにpush
+2.プルリクエスト　マージ
+
+
